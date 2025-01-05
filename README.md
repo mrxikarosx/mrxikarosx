@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.tenor.com/H6hqrWmYxbIAAAAj/gura-gawr-gura.gif" style="width: 80px"></img>
+    <img src="https://media.tenor.com/H6hqrWmYxbIAAAAj/gura-gawr-gura.gif" style="width: 128px"></img>
 </div>
 
 #### OS
