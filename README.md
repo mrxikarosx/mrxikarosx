@@ -30,3 +30,4 @@
 ![GitLab](https://img.shields.io/badge/GitLab-E54E36?logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F54D27?logo=git&logoColor=white)
+![Termius](https://img.shields.io/badge/Termius-222434?logo=termius&logoColor=white)
