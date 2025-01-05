@@ -1,33 +1,44 @@
-<div align="center">
-    <img src="https://media.tenor.com/H6hqrWmYxbIAAAAj/gura-gawr-gura.gif" style="width: 128px"></img>
+#### OS
+<div>
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000000">
+    <img src="https://img.shields.io/badge/Windows-blue">
 </div>
 
-#### OS
-![Linux](https://img.shields.io/badge/Linux-orange?logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-blue)
-
 #### IDE
-![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community-BB74D9)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue)
+<div>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Community-BB74D9">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue">
+</div>
 
 #### Languages
-![PHP](https://img.shields.io/badge/PHP-8084b8?logo=php&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?logo=vue.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-F36E34?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0F97D6?logo=css3&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-BB74D9?logo=sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F2CF41?logo=javascript&logoColor=white)
+<div>
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/C%23-BB74D9?logo=sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white">
+</div>
 
 #### Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-F13B2F?logo=laravel&logoColor=white)
+<div>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white">
+</div>
 
 #### Software & Tools
-![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-006bc0?logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-206C99?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-41719D?logo=postgresql&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-E54E36?logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F54D27?logo=git&logoColor=white)
-![Termius](https://img.shields.io/badge/Termius-222434?logo=termius&logoColor=white)
+<div>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/Termius-000000?logo=termius&logoColor=white">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white">
+</div>
+<br>
+<br>
+<div align="center">
+    <img src="https://media.tenor.com/H6hqrWmYxbIAAAAj/gura-gawr-gura.gif" style="width: 128px;margin-top: 40px;"></img>
+</div>
