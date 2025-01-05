@@ -7,8 +7,9 @@ Just programming.
 - Vue
   
 ## Languages
+#### Main
 - PHP
 - Vue
-#### Hobby languages
+#### Hobby
 - Pawn
 - C#
